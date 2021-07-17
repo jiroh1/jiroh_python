@@ -28,3 +28,13 @@ if __name__ == '__main__':
     s = 'pPPPPPooyY'
     a = sol(s)
     print(a)
+
+
+    # def numPY(s):
+    #     # 함수를 완성하세요
+    #     return s.lower().count('p') == s.lower().count('y')
+    # def numPY(s):
+    #     # 함수를 완성하세요
+    #     if (s.upper().count('P') == s.upper().count('Y')):
+    #         return True
+    #     return False
